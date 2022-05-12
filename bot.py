@@ -4,7 +4,6 @@ import config
 import random
 import os
 import time
-from tools.tools import getting_ready
 
 bot = telebot.TeleBot(config.BOT_TOKEN)
 
